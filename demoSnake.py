@@ -18,8 +18,8 @@ dis_heigth = 400
 
 dis = pygame.display.set_mode((dis_width, dis_heigth)) #kích thước
 
-score_font = pygame.font.SysFont("Agency FB", 25)
-font_style = pygame.font.SysFont('Agency FB', 40)
+score_font = pygame.font.SysFont("consolas", 20)
+font_style = pygame.font.SysFont('consolas', 25)
 
 mss1 = 'Game Over!'
 mss2 = 'Press C_Continue or Q_Quit ?'
